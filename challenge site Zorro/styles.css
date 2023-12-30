@@ -1,0 +1,136 @@
+body{
+    background-color: rgb(1, 8, 15);
+}
+
+.contain_nav{
+    display: flex ;
+    margin: 10px;
+    align-items: center ;
+    justify-content: left;
+    
+  color: whitesmoke;
+  
+    
+    
+
+}
+
+.logo{
+   
+    
+
+}
+.logo img{
+    max-width: 70px;
+    max-height: 90px;
+    
+}
+.E1{
+   
+    padding: 0px 20px;
+   
+
+}
+.E2{
+    
+    padding: 0px 20px;
+
+}
+.E3{
+    
+    padding: 0px 20px;
+
+}
+.E4{
+    padding: 0px 20px;
+
+}
+.E5{
+    padding: 0px 20px;
+
+}
+
+.A1{
+    display: flex;
+    background-color: rgb(203, 45, 45);
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.zooro{
+    width: 60%;
+    background-image: url(src/zorro.jpg);
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+
+    
+
+}
+.text{
+    display: flex;
+  width: 40%;
+    height: 30%;
+    position: relative;
+    left: -10%;
+    
+    
+}
+.opac{
+    background-color: rgb(43, 45, 44);
+    height: 100%;
+    width: 20%;
+    opacity: 0.4;
+}
+.text1{
+background-color: rgb(41, 41, 42);
+height: 100%;
+width: 80%;
+text-align:left;
+padding-left:20%;
+color: white;
+}
+
+.text1 button{
+    background-color: rgb(210, 201, 201);
+    color: rgb(145, 14, 14);
+    border: 0;
+    width: 50%;
+    height: 25%;
+    border-radius: 10px;
+    position: relative;
+    bottom: -10px;
+
+}
+.horse{
+    display:flex;
+    background-color: rgb(62, 67, 67);
+    height: 200px;
+    align-items: center;
+    justify-content: space-around;
+    align-content: center;
+    color: white;
+    
+}
+.horse1{
+    background-color: rgb(34, 32, 30) ;
+    height: 50%;
+    width: 30%;
+}
+.horse2{
+    background-color: rgb(240, 35, 35) ;
+    height: 50%;
+    width: 30%;
+}
+.horse3{
+    background-color: rgb(149, 147, 147) ;
+    height: 50%;
+    width: 30%;
+}
+#button1{
+    height: 20px;
+    width: 50px;
+}
+
